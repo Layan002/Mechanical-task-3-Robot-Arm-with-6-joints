@@ -53,7 +53,9 @@ In the King Abdulaziz university we built just the basics in the solidworks. But
 - I've learnt How to design comlicated part in the shortest and easiest way (Thinking more as a professional industrial engineer).
 - I enhanced more my knowledge in how the servo motors move and how to assemble them with bearings and joints.
 
-# Speed motion videos
+# Speed motion video
+
+https://github.com/user-attachments/assets/b0e6cf34-79c5-421f-82f8-be24aceaa8c2
 
 
 
