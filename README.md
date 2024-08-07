@@ -5,10 +5,10 @@ I've gesigned this complicated robot arm with six degrees of freedom (6 DOF). Th
 I've created two assemblies:
 
 - The whole robot arm.<br>
-<img src= "https://github.com/user-attachments/assets/b141844a-3391-4f3e-9c4d-14085ed43d8c" alt= "img" with= 200>
+<img src= "https://github.com/user-attachments/assets/b141844a-3391-4f3e-9c4d-14085ed43d8c" alt= "img" width= 400>
 
 - Gripper.<br>
-<img src= "https://github.com/user-attachments/assets/ceb175ef-4b5f-4caf-ad53-e4e7213016d8" alt= "img" with= 400>
+<img src= "https://github.com/user-attachments/assets/ceb175ef-4b5f-4caf-ad53-e4e7213016d8" alt= "img" width= 400>
 
 
 >[!NOTE]
@@ -18,23 +18,23 @@ I've created two assemblies:
 - I've created about 26 parts (without taking a count to the parts that I took it as ready-made)!! <br>
 
 ## Base component images
-<img src= "https://github.com/user-attachments/assets/ab98b04b-e7eb-457b-b877-85aeeb8b8cf7" alt= "img" with= 400 height = 800>
+<img src= "https://github.com/user-attachments/assets/ab98b04b-e7eb-457b-b877-85aeeb8b8cf7" alt= "img" width= 400>
 
 ## Links
-<img src= "https://github.com/user-attachments/assets/da9c520c-f848-459b-aaba-8dc7342555ff" alt= "img" with= 400 height = 800>
+<img src= "https://github.com/user-attachments/assets/da9c520c-f848-459b-aaba-8dc7342555ff" alt= "img" width= 400>
 
 ## Parts
-<img src= "https://github.com/user-attachments/assets/9d0e0081-beeb-45fd-9266-0f4b14374803" alt= "img" with= 400 height = 800>
+<img src= "https://github.com/user-attachments/assets/9d0e0081-beeb-45fd-9266-0f4b14374803" alt= "img" width= 400>
 
 
 ## Servos
 ## Types of servos:
 I used two types of servos: MX-28AR & XL-320
 - MX-28AR:<br>
-<img src= "https://github.com/user-attachments/assets/31fcffab-48b6-4e47-83ad-842ef4968a8c" alt= "img" with= 400>
+<img src= "https://github.com/user-attachments/assets/31fcffab-48b6-4e47-83ad-842ef4968a8c" alt= "img" width= 400>
 
 - XL-320:<br>
-<img src= "https://github.com/user-attachments/assets/ae9a4a91-1e2a-4e8a-b9fe-b91161b02f60" alt= "img" with= 400>
+<img src= "https://github.com/user-attachments/assets/ae9a4a91-1e2a-4e8a-b9fe-b91161b02f60" alt= "img" width= 400>
 
 
 
