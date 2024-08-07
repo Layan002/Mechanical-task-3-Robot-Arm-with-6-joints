@@ -5,8 +5,6 @@ I've gesigned this complicated robot arm with six degrees of freedom (6 DOF). Th
 - I've created about 26 parts (without taking a count to the parts that I took it as ready-made)!! <br>
 
 ## Base component images
-
-![Base images]()
 <img src= "https://github.com/user-attachments/assets/ab98b04b-e7eb-457b-b877-85aeeb8b8cf7" alt= "img" with= 400 height = 800>
 
 ## Links
