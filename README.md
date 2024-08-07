@@ -52,7 +52,6 @@ In the King Abdulaziz university we built just the basics in the solidworks. But
 - learning how to mate two gears or multiple.
 - I've learnt How to design comlicated part in the shortest and easiest way (Thinking more as a professional industrial engineer).
 - I enhanced more my knowledge in how the servo motors move and how to assemble them with bearings and joints.
--  
 
 
 
