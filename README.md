@@ -7,7 +7,7 @@ I've gesigned this complicated robot arm with six degrees of freedom (6 DOF). Th
 ## Base component images
 
 ![Base images]()
-<img src= "https://github.com/user-attachments/assets/ab98b04b-e7eb-457b-b877-85aeeb8b8cf7" alt= "img" with= 400>
+<img src= "https://github.com/user-attachments/assets/ab98b04b-e7eb-457b-b877-85aeeb8b8cf7" alt= "img" with= 400 height = 800>
 
 ## Links
 
