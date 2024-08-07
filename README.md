@@ -31,7 +31,7 @@ I've gesigned this complicated robot arm with six degrees of freedom (6 DOF). Th
 The "gripper" was a sub-assembly in the "robot arm assembly".
 
 
-# What Iive learnt in SolidWorks ?
+# What I've learnt in SolidWorks ?
 
 In the King Abdulaziz university we built just the basics in the solidworks. But after implementing this task I learnt new solid knowledge! Lets beak them down 😍! I will mention the most importent to less: <br>
 - I've learnt how to desing gears.
