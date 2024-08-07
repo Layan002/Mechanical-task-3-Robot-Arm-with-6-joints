@@ -38,7 +38,7 @@ I used two types of servos: MX-28AR & XL-320
 
 
 
-# Screws 
+## Screws 
 I've used 14 built-in screws !! You can check them in the files section. 
 
 
