@@ -8,7 +8,7 @@ I've gesigned this complicated robot arm with six degrees of freedom (6 DOF). Th
 <img src= "https://github.com/user-attachments/assets/ab98b04b-e7eb-457b-b877-85aeeb8b8cf7" alt= "img" with= 400 height = 800>
 
 ## Links
-
+<img src= "https://github.com/user-attachments/assets/da9c520c-f848-459b-aaba-8dc7342555ff" alt= "img" with= 400 height = 800>
 
 ## Parts
 
