@@ -1,5 +1,17 @@
 # Parts
-- I've created about 26 parts !! <br>
+- I've created about 26 parts (without taking acount to the parts that I took it as ready-made)!! <br>
+
+## Bases
+
+
+
+## Links
+
+
+## Parts
+
+
+## Servos
 
 
 
