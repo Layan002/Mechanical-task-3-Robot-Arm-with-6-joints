@@ -1,5 +1,5 @@
 # About
-I've gesigned this complicated robot arm with six degrees of freedom (6 DOF). This is the most comlicated and hard design I've ever created in all my life with solidworks!! I am so proud to achive the final result of this task since it took from me about two weeks to complete 😃.
+I've designed this complicated robot arm with six degrees of freedom (6 DOF). This is the most comlicated and hard design I've ever created in all my life!! I am so proud to achive the final result of this task since it took from me about two weeks to complete 😃.
 
 # Assemblies
 I've created two assemblies:
