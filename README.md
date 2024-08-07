@@ -15,7 +15,7 @@ I've created two assemblies:
 >The "gripper" was a sub-assembly in the "robot arm assembly".
 
 # Parts
-- I've created about 21 parts (without taking account to the parts that I took it as ready-made)!! <br>
+- I've created about 21 parts (without taking account to the parts that I took it as ready-made e.g screws and servos)!! <br>
 
 ## Base component images
 <img src= "https://github.com/user-attachments/assets/ab98b04b-e7eb-457b-b877-85aeeb8b8cf7" alt= "img" width= 400>
